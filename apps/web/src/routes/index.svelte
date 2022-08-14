@@ -3,13 +3,13 @@
 </script>
 
 <svelte:head>
-	<title>MESN Turbo</title>
+	<title>Janken Club</title>
 </svelte:head>
 
 <main>
 	<header>
 		<div>
-			<h1>MESN Turbo</h1>
+			<h1>Janken Club</h1>
 		</div>
 	</header>
 </main>
